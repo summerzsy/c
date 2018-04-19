@@ -1,7 +1,4 @@
 #include<stdio.h>
-
-
-
 int main(void)
 {
     int a;
@@ -11,5 +8,4 @@ int main(void)
     else 
         printf("¾ø¶ÔÖµÊÇ%d¡£\n", -a);
     return 0;
-
 }       
